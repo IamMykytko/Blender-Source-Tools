@@ -1,5 +1,5 @@
 # Blender Source Tools is an extension for Blender that enables you to work with Source engine models and export them to formats that are compatible with the Source engine.
-## This extension enables you to make mods for games developed on Source.
+This extension enables you to make mods for games developed on Source.
 
 ## Instruction
 * Download raw-format of latest version of BST from this GitHub-repo
